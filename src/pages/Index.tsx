@@ -53,7 +53,12 @@ const Index = () => {
       <nav className="bg-white/90 backdrop-blur-sm shadow-sm sticky top-0 z-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center py-4">
-            <div className="flex items-center space-x-2">
+            <div className="flex items-center space-x-3">
+              <img 
+                src="/lovable-uploads/0ecb65c0-7e46-4d79-bfde-76acf1fa9fe2.png" 
+                alt="Bella Bridal mascot" 
+                className="h-10 w-10"
+              />
               <Heart className="h-8 w-8 text-rose-500" />
               <span className="text-2xl font-bold bg-gradient-to-r from-rose-500 to-pink-600 bg-clip-text text-transparent">
                 Bella Bridal
